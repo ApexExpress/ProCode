@@ -1,39 +1,72 @@
-!/declare.stream
+import system;
+
+use FTL;
+use verbose;
+
+my !/declare.stream
+
+   for !/ + @/ = #/
+while $/ + %/ = ^/
+  do &/ + */ =  /(
+
+IF )/ = ... 32c.pattern
 
 example: !/32SYS.com
 
-@/id.network
+my @/id.network
 
 example: @/code_networks
 
-#/ctrl.command
+my #/ctrl.command
 
 example: #/Command-Instructions
 
-$/keypair.result
+my $/keypair.result
 
 example: $/$$_AUTH
 
-%/objective.split
+my %/objective.split
 
 example: %/prime-yes
 
-^/display.peek
+my ^/display.peek
 
 example: instructional_look
 
-&/runtime.env
+my &/runtime.env
 
 example: file -> permission login
 
-*/permission.auth
+my */permission.auth
 
-example: permission athorization process
+example: permission authorization process
 
-(/open.route
+my (/open.route if
+test IF
+( $1 > $2 )
+and
+( $3 > $4 )
+else
+( $5 > $6 )
+while
+( $7 > $8 )
+do
+( $9 > $0 )
 
 example: webpage delivery
 
-)/close.route
+my )/close.route
 
 example: send DATA close stream
+
+control > my $: ~/tokens
+sample: set tool
+
+example( func magic command )
+use sort|unique|eq > abc.ext | def.ext 
+
+return 0; passing
+return 1; program
+return 3; prompt
+
+END; EOF; EOT;
