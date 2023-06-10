@@ -7,7 +7,7 @@ my !/declare.stream
 
    for !/ + @/ = #/
 while $/ + %/ = ^/
-  do &/ + */ =  /(
+  do &/ + */ = (/
 
 IF )/ = ... 32c.pattern
 
