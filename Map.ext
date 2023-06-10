@@ -1,1 +1,39 @@
-dial()
+!/declare.stream
+
+example: !/32SYS.com
+
+@/id.network
+
+example: @/code_networks
+
+#/ctrl.command
+
+example: #/Command-Instructions
+
+$/keypair.result
+
+example: $/$$_AUTH
+
+%/objective.split
+
+example: %/prime-yes
+
+^/display.peek
+
+example: instructional_look
+
+&/runtime.env
+
+example: file -> permission login
+
+*/permission.auth
+
+example: permission athorization process
+
+(/open.route
+
+example: webpage delivery
+
+)/close.route
+
+example: send DATA close stream
